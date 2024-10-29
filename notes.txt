@@ -1,4 +1,4 @@
-FIREWALL
+01 - FIREWALL
 
 What is it?
 - A program sitting at interface for internal network and untrusted network
@@ -10,3 +10,8 @@ What is it?
 2. Simulate traffic
 3. Evaluate + Act 
 4. 
+------------------------------------
+02 - MONITOR AND DETECT DOS 
+------------------------------------
+1. Check if rate > pre-defined 
+2. Scapy: python library to detect, analyse networks
