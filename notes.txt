@@ -1,0 +1,12 @@
+FIREWALL
+
+What is it?
+- A program sitting at interface for internal network and untrusted network
+- Monitor and evaluate traffic
+- 2 outcomes: Block / allow packet to enter
+"Algorithmic bouncer"
+
+1. Define rules
+2. Simulate traffic
+3. Evaluate + Act 
+4. 
